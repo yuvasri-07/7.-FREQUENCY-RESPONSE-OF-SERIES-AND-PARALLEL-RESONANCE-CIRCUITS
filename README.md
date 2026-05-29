@@ -39,7 +39,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 <img width="1151" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5177060-92d5-431f-ba6d-acf6b80befa5" />
 
 
-**Calculation:**
+**Output:**
 
 <img width="1600" height="723" alt="WhatsApp Image 2026-05-29 at 8 55 40 AM" src="https://github.com/user-attachments/assets/a6d88606-bd76-44a0-8e45-64430654db65" />
 
@@ -66,7 +66,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **RESULT:**
 
-Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
+Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using LTspice Simulator.
 
 
 
